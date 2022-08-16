@@ -1,4 +1,4 @@
-baseURL = 'https://aidansmith5102.netlify.app/'
+baseURL = 'http://aidansmith5102.netlify.app/'
 languageCode = 'en-us'
 title = 'Aidan Smith'
 theme = "hugo-theme-console"
