@@ -1,4 +1,3 @@
-baseURL = 'https://lighthearted-liger-cd48ad.netlify.app/'
+baseURL = 'https://aidansmith.me/'
 languageCode = 'en-us'
 title = 'Aidan Smith'
-theme = "hugo-theme-console"
