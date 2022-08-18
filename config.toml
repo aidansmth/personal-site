@@ -1,3 +1,4 @@
 baseURL = 'https://aidansmith.me/'
 languageCode = 'en-us'
 title = 'Aidan Smith'
+theme = "congo"
