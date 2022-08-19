@@ -36,7 +36,7 @@ I'm a senior at Santa Clara University studying Computer Science. Originally fro
 
 ## Education:
 ### Santa Clara University - Computer Science B.S.
-Expected Graduation: Jun 2022
+*Expected Graduation: Jun 2023*
 
 Minor: Economics
 
