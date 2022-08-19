@@ -1,20 +1,50 @@
 ---
-title: "Resume"
-date: 2022-09-01
+title: "My Resume"
 description: "My Resume"
-showDate: true
-menu: true
-url: "aidansmith.me/resume"
+
+showEdit: false
+showDateUpdated: false
+showSummary: false
 showAuthor: false
 showReadingTime: false
-showEdit: false
+
+showTableOfContents: true
+showBreadcrumbs: true
+
+lastmod: 2022-08-18
+
 ---
+## 
+
+{{< lead >}}
+<p style="color:black;"><b>Howdy, I'm Aidan Smith</b>
+
+I'm a senior at Santa Clara University studying Computer Science. Originally from Dallas, Texas, I'm graduating in June, 2023.</p>
+{{< /lead >}}
 
 
-There are many ways you can make advanced changes to Congo. Read below to learn more about what can be customised and the best way of achieving your desired result.
 
-If you need further advice, post your questions on [GitHub Discussions](https://github.com/jpanther/congo/discussions).
 
-## Hugo project structure
+## Work Experience:
+### Ondas Networks - Software Engineering Intern
+*Jun 2022 - Present*
+- Design and implement a CLI calibration suite in Python.
+- Speed up the verification process by 80%, freeing up employees to work on other tasks.
+- Utilized pair programming and Agile-like development. 
 
-Before leaping into it, first a quick note about [Hugo project structure](https://gohugo.io/getting-started/directory-structure/) and best practices for managing your content and theme customisations.
+### KSCU 103.3 FM - General Manager
+*Mar 2022 - Present*
+- Manage a team of fifteen to operate Santa Clara University’s student-run radio station.
+- Oversee a wide range of radio station functions from sports broadcasting and ticket giveaways to merchandising.
+- Act as a delegate between the station staff and the university administration. 
+
+## Education:
+### Santa Clara University - Computer Science B.S.
+Expected Graduation: Jun 2022
+
+Minor: Economics
+
+Relevant coursework: Data Structures and Algorithms, Database Systems, Computer Networking
+
+## Awards:
+Eagle Scout - 2019

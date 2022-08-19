@@ -11,24 +11,24 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Resume"
-url = "aidansmith.me/resume"
-weight = 5
+name = "Blog"
+pageRef = "blog"
+weight = 20
 
 [[main]]
-name = "About"
-pageRef = "about"
-weight = 10
+name = "Resume"
+pageRef = "resume"
+weight = 30
 
 [[main]]
 name = "GitHub"
 url = "https://github.com/aidansmth"
-weight = 40
+weight = 50
 
 [[main]]
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/aidan-smith-dev/"
-weight = 50
+weight = 40
 
 
 # -- Footer Menu --

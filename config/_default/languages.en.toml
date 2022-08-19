@@ -8,15 +8,15 @@ rtl = false
 title = "Aidan Smith"
 # logo = "img/logo.jpg"
 # description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "© 2022"
 
 dateFormat = "2 January 2006"
 
 [author]
-name = "Aidan Smith"
+name = "Howdy, I'm Aidan 👋"
 image = "images/me-small.jpg"
-headline = "Software Engineer"
-# bio = "A little bit about you"
+headline = "Software Engineer - SF Bay Area"
+bio = "Please reach out using the above links "
 links = [
   { email = "mailto:howdy@aidansmith.me" },
   #   { link = "https://link-to-some-website.com/" },
