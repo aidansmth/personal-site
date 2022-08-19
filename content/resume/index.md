@@ -8,7 +8,7 @@ showSummary: false
 showAuthor: false
 showReadingTime: false
 
-showTableOfContents: true
+showTableOfContents: false
 showBreadcrumbs: true
 
 lastmod: 2022-08-18
@@ -17,12 +17,10 @@ lastmod: 2022-08-18
 ## 
 
 {{< lead >}}
-<p style="color:black;"><b>Howdy, I'm Aidan Smith</b>
+<p style="color:black;"><b>Hi, I'm Aidan Smith</b>
 
 I'm a senior at Santa Clara University studying Computer Science. Originally from Dallas, Texas, I'm graduating in June, 2023.</p>
 {{< /lead >}}
-
-
 
 
 ## Work Experience:

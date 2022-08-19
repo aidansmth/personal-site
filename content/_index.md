@@ -1,8 +1,7 @@
 ---
-title: "Welcome to Congo! :tada:"
-description: "This is a demo of the Congo theme for Hugo."
+title: "Aidan Smith"
+description: "A personal site"
 ---
-
 {{< lead >}}
-Reach out using the links above
+<font size="4px"> Please reach out using the links above</font>
 {{< /lead >}}
