@@ -23,20 +23,20 @@ I'm a senior at Santa Clara University studying Computer Science. Originally fro
 
 ## Work Experience:
 ### Ondas Networks - Software Engineering Intern
-*Jun 2022 - Present*
+*June 2022 - Present*
 - Design and implement a CLI calibration suite in Python.
 - Speed up the verification process by 80%, freeing up employees to work on other tasks.
 - Utilized pair programming and Agile-like development. 
 
 ### KSCU 103.3 FM - General Manager
-*Mar 2022 - Present*
+*March 2022 - Present*
 - Manage a team of fifteen to operate Santa Clara University’s student-run radio station.
 - Oversee a wide range of radio station functions from sports broadcasting and ticket giveaways to merchandising.
 - Act as a delegate between the station staff and the university administration. 
 
 ## Education:
 ### Santa Clara University - Computer Science B.S.
-*Expected Graduation: Jun 2023*
+*Expected Graduation: June 2023*
 
 Minor: Economics
 
