@@ -24,6 +24,9 @@
         loop: false,
         startDelay: 750,
         speed: 90,
+        afterComplete: function (instance) {
+          instance.destroy();
+        }
       }).go();
     </script>
     {{ with .Site.Author.headline }}
