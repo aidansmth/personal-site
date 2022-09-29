@@ -21,14 +21,15 @@ pageRef = "resume"
 weight = 30
 
 [[main]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/aidan-smith-dev/"
+weight = 40
+
+[[main]]
 name = "GitHub"
 url = "https://github.com/aidansmth"
 weight = 50
 
-[[main]]
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/aidan-smith-dev/"
-weight = 40
 
 
 # -- Footer Menu --

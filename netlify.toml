@@ -15,3 +15,6 @@ HUGO_ENV = "production"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.100.2"
+
+[dev]
+framework = "hugo"

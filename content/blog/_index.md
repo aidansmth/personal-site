@@ -6,7 +6,3 @@ cascade:
   showEdit: false
   showSummary: true
 ---
-
-{{< lead >}}
-Work in progress :computer:
-{{< /lead >}}

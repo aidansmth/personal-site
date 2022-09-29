@@ -1,2 +1,10 @@
 .hugo_build.lock
 public/
+# Local Netlify folder
+.netlify
+# Node JS
+node_modules
+package-lock.json
+package.json
+# Mac OS
+.DS_STORE
