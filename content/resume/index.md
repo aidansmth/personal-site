@@ -24,9 +24,9 @@ I'm a senior at Santa Clara University studying Computer Science. Originally fro
 ## Work Experience:
 ### Ondas Networks - Software Engineering Intern
 *June 2022 - Present*
-- Design and implement a CLI calibration suite in Python.
-- Speed up the verification process by 80%, freeing up employees to work on other tasks.
-- Utilized pair programming and Agile-like development. 
+- Designed and implemented a CLI calibration suite in Python.
+- Sped up the verification process by 80%, freeing up employees to work on other tasks.
+- Utilizing pair programming and Agile-like development. 
 
 ### KSCU 103.3 FM - General Manager
 *March 2022 - Present*
