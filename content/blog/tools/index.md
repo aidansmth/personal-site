@@ -90,7 +90,7 @@ Search tool to search directories for regex pattern. Useful for finding lines of
 Useful tool for moving items to the trash rather than deleting them forever using **rm**.
 
 #### [neofetch](https://github.com/dylanaraps/neofetch)
-Cool tool to quickly display system information. A modern alternative to screenfetch that works on more o
+Cool tool to quickly display system information. A modern alternative to screenfetch that works on more systems (particularly M1 versions of MacOS).
 ![Neofetch Example](neofetch.png)
 
 #### [youtube-dl](https://github.com/ytdl-org/youtube-dl)
