@@ -1,5 +1,5 @@
 ---
-title: "Aidan Smith"
+title: "Aidan Smith - Software Engineer"
 description: "A personal site"
 ---
 {{< lead >}}
