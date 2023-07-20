@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
 name = "Howdy, I'm Aidan 👋"
 image = "images/me-small.jpg"
-headline = "Software Engineer - SF Bay Area"
-bio = "Please reach out using the above links "
+headline = "Software Engineer - San Francisco"
+bio = "Reach out using the links below."
 links = [
   { email = "mailto:hi@aidansmith.me" },
   #   { link = "https://link-to-some-website.com/" },
