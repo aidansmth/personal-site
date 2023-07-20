@@ -8,3 +8,4 @@ package-lock.json
 package.json
 # Mac OS
 .DS_STORE
+*.hidden
