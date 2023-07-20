@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Blog"
-pageRef = "blog"
+name = "Portfolio"
+pageRef = "portfolio"
 weight = 20
 
 [[main]]
