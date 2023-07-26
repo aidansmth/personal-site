@@ -1,6 +1,6 @@
 ---
 title: "My Resume"
-description: "Resume"
+description: "My personal resume covering my work experience and education."
 slug: "resume"
 
 showDate: false
@@ -37,6 +37,5 @@ lastmod: 2022-08-18
 ## Education
 ### Santa Clara University - Computer Science B.S.
 *Graduated in June 2023*
-
 - Minor: Economics
 - Relevant coursework: Data Structures and Algorithms, Database Systems, Computer Networking
