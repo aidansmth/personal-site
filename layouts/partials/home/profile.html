@@ -17,18 +17,10 @@
       </p>
     </h1>
     <script defer src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script>
-    <script>
-      new TypeIt(".multipleStrings", {
-        breakLines: false,
-        lifelike: true,
-        loop: false,
-        startDelay: 750,
-        speed: 90,
-        afterComplete: function (instance) {
-          instance.destroy();
-        }
-      }).go();
-    </script>
+    {{ $js := resources.Get "js/type-it-go.js" }}
+    {{ if $js }}
+      <script defer src="{{ $js.RelPermalink }}"></script>
+    {{ end }}
     {{ with .Site.Author.headline }}
     <h2 class="text-xl text-neutral-500 dark:text-neutral-400">
       {{ . | markdownify | emojify }}

@@ -11,3 +11,8 @@ summaryLength = 0
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+[module]
+[[module.mounts]]
+    source = "assets"
+    target = "assets"
