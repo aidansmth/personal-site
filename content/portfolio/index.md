@@ -14,6 +14,7 @@ showTableOfContents: false
 showBreadcrumbs: false
 
 lastmod: 2022-08-18
+draft: true
 
 ---
 ## [KSCU.org](https://github.com/KSCU-radio/kscu-site)
